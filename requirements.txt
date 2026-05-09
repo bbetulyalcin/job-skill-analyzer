@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+pandas
+matplotlib
+python-dotenv
+groq
