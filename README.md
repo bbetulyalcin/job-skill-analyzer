@@ -130,6 +130,34 @@ Top 10 most in-demand skills chart generated with Matplotlib.
 - Only skills included in the predefined `skill.json` map are considered valid.
 - Designed for educational and market analysis purposes.
 
+## Screenshots
+
+### 1. Skill.py – User Input & Scraping Process
+![Skill.py Running](1.jpg)
+
+This screen shows the stage where the user enters the job position and page limit, and the scraping process starts.
+
+---
+
+### 2. CSV Output
+![CSV Output](2.png)
+
+The dataset generated after scraping, including job title, company, location, job link, and extracted skills.
+
+---
+
+### 3. Analysis.py Execution
+![Analysis Script](3.jpg)
+
+The stage where the CSV file is read and skill frequency analysis is performed.
+
+---
+
+### 4. Matplotlib Visualization
+![Skill Chart](4.png)
+
+Visualization of the Top 10 most in-demand skills.
+
 ---
 
 # LLM Destekli İş İlanı Beceri Analizörü
